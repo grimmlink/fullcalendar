@@ -1,0 +1,28 @@
+{
+  "name": "grimmlink/fullcalendar",
+  "description": "Shim repository for FullCalendar",
+  "keywords": [
+    "calendar",
+    "event",
+    "full-sized",
+    "jquery-plugin"
+  ],
+  "homepage": "http://fullcalendar.io/",
+  "bugs": "http://fullcalendar.io/wiki/Reporting-Bugs/",
+  "author": {
+    "name": "Adam Shaw",
+    "email": "arshaw@arshaw.com",
+    "url": "http://arshaw.com/"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Adam Shaw",
+    "email": "arshaw@arshaw.com",
+    "url": "http://arshaw.com/"
+  },
+  "copyright": "2016 Adam Shaw",
+  "require": {
+    "components/jquery": ">=1.7.1",
+    "moment/moment": ">=2.5.0"
+  }
+}
